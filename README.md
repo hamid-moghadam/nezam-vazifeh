@@ -62,24 +62,29 @@
 
 ## لینک های مهم
 
-اطلاعات مربوط به قوانین تسهیلات نظام وظیفه تخصصی
+اطلاعات مربوط به قوانین تسهیلات نظام وظیفه تخصصی:
+
 [daneshbonyan.isiti.ir](
 http://daneshbonyan.isti.ir/%D8%AA%D8%B3%D9%87%DB%8C%D9%84%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D8%B1%DA%A9%D9%86%D8%A7%D9%86-%D8%B4%D8%B1%DA%A9%D8%AA%E2%80%8C%D9%87%D8%A7)
 
-سامانه پاسخ گویی به سوالات
+سامانه پاسخ گویی به سوالات:
+
 [crm.isti.ir](
 https://crm.isti.ir/isti)
 
   
 سامانه سینا:
+
 [sina.bmn.ir](
 https://sina.bmn.ir/)
 
 سامانه تینت:
+
 [tinet.ir](
 https://tinet.ir/)
 
 کانال تلگرام امریه‌ی دانش بنیان:
+
 https://t.me/amriye_fanavar
 
 گروه تلگرام پروژه جایگزین:
